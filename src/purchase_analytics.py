@@ -14,7 +14,7 @@ import operator
 
 #select the run mode of excecution
 #T1 = Test_1, T2 = Test_2, P = Production
-run_mode = 'T1'
+run_mode = 'P'
 
 #repo URL
 repo_url = 'moshezy/DataInsight/master/'
